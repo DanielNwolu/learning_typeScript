@@ -1,4 +1,10 @@
 "use strict";
+// interface User {
+//     type: 'user';
+//     name: string;
+//     age: number;
+//     occupation: string;
+// }
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.adminsOfAge23 = exports.usersOfAge23 = exports.persons = void 0;
 exports.logPerson = logPerson;
